@@ -58,7 +58,7 @@ jQuery(document).ready(function($) {
     GitHubCalendar("#github-graph", "angularEx");
     
     
-    /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
+    /* Github Activity Feed - https://github.com/NagarjunMallikarjuna/github-activity */
     GitHubActivity.feed({ username: "NagarjunMallikarjuna", selector: "#ghfeed" });
 
 
